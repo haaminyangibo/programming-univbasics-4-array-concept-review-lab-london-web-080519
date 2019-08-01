@@ -1,5 +1,6 @@
 def find_element_index(array, value_to_find)
-  # Add your 
+  arr =[1,2,3,4,5]
+  
 end
 
 def find_max_value(array)

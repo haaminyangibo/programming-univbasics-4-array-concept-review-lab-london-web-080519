@@ -1,7 +1,5 @@
 def find_element_index(array, value_to_find)
- arr = [1,2,3,4,5]
- 5.times do |arr|
-  puts arr
+
 end
 
 def find_max_value(array)

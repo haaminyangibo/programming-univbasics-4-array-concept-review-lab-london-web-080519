@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
 
-a = [ "a", "b", "c" ]
-a.index("b")  
+arr = [ "a", "b", "c" ]
+arr.index("b")  
 
 end
 

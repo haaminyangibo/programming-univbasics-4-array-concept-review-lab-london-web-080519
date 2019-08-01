@@ -1,8 +1,6 @@
 def find_element_index(array, value_to_find)
-find_element_index = [1,2,3,4]
 
-value_to_find = 1
-find_element_index.index(value_to_find)
+
 
 end
 
